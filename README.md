@@ -22,7 +22,9 @@ The dashboard highlights overall attrition rate (16.12%), department-level attri
 <h2> Key Performance Indicators (KPIs)</h2>
 <p align="center"> <b>Total Employees:</b> 1,470 <b>Attrition:</b> 237 <b>Attrition Rate:</b> 16.12% <b>Active Employees:</b> 1,233 <b>Average Age:</b> 37 years </p>
 <h2>🖼️ Project Walk-through</h2>
-Main Dashboard Overview:
+<p align="center">
+<b>Main Dashboard Overview:</b> <br/>
+<b></b> <br/>
 <p align="center"> <img width="1322" height="743" alt="HR analysis pic" src="https://github.com/user-attachments/assets/445aa745-59b8-4e72-bcae-18d32d6ff54d"/>
 
 <h2> Key Business Insights</h2>
