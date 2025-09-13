@@ -1,6 +1,6 @@
 <h1>👩‍💼 HR Analytics Dashboard - Business Intelligence Project</h1>
 
-<h2>📌 Description</h2>
+<h2> Description</h2>
 
 A comprehensive HR Analytics Dashboard built using Power BI to analyze workforce data and provide actionable insights. This project uses raw HR data (1,470 employees) to uncover key trends in attrition, demographics, job satisfaction, and workforce distribution, enabling data-driven decision-making for HR strategy and employee engagement.
 The dashboard highlights overall attrition rate (16.12%), department-level attrition, age and gender distribution, job satisfaction ratings, and education field trends. It demonstrates how business intelligence can be applied to human resources management to optimize retention strategies and improve employee experience.
