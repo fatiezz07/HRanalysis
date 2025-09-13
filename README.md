@@ -7,10 +7,10 @@ The dashboard highlights overall attrition rate (16.12%), department-level attri
 
 <h2>🛠️ Languages and Tools Used</h2>
 
-**Microsoft Excel** – Data cleaning and preprocessing
-**Power BI** – Data modeling, KPI calculation, and dashboard creation
-**Data Visualization** – Charts, slicers, and filters for interactive insights
-**Business Intelligence** – Workforce analytics, KPI tracking, and strategic HR insights
+- **Microsoft Excel** – Data cleaning and preprocessing
+- **Power BI** – Data modeling, KPI calculation, and dashboard creation
+- **Data Visualization** – Charts, slicers, and filters for interactive insights
+- **Business Intelligence** – Workforce analytics, KPI tracking, and strategic HR insights
 
 <h2>🎯 Skills Demonstrated</h2>
 
